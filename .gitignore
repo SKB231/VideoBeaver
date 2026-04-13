@@ -1,2 +1,15 @@
 *.pem
 .env
+*.mov
+*.mp4
+*.webm
+*.mp4
+*.webm
+*.mov
+*.avi
+*.mkv
+*.m4v
+*.sh
+*static/*
+*__pycache__/*
+package-lock.json
