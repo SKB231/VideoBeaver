@@ -1,0 +1,6 @@
+torch>=2.0
+transformers>=4.35
+openai-whisper>=20231117
+opencv-python>=4.8
+pillow>=10.0
+numpy>=1.24
